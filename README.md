@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Lamine</h1>
 <h3 align="center">A passionate self-taught full stack web developer and ML engineer.</h3>
 
-- 🔭 I’m currently learning Software engineering at [ALX Software Engineering programme](https://www.alxafrica.com)
 
 - 🌱 I’m currently learning **React**
 
